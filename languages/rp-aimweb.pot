@@ -1,0 +1,265 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Better Posts Plus\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-09-13 10:52+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: rp-aimweb.php:67
+msgid " are ignored (they haven't priority) "
+msgstr ""
+
+#: rp-aimweb.php:64
+msgid " are sorted "
+msgstr ""
+
+#: rp-aimweb.php:59
+msgid " arrage posts "
+msgstr ""
+
+#: rp-aimweb.php:44
+msgid " ascending (A-Z)"
+msgstr ""
+
+#: rp-aimweb.php:35
+msgid " by author"
+msgstr ""
+
+#: rp-aimweb.php:38
+msgid " by date"
+msgstr ""
+
+#: rp-aimweb.php:31
+msgid " by date (default)"
+msgstr ""
+
+#: rp-aimweb.php:39
+msgid " by modification date"
+msgstr ""
+
+#: rp-aimweb.php:41
+msgid " by number of comments"
+msgstr ""
+
+#: rp-aimweb.php:34
+msgid " by post ID"
+msgstr ""
+
+#: rp-aimweb.php:37
+msgid " by slug"
+msgstr ""
+
+#: rp-aimweb.php:36
+msgid " by title"
+msgstr ""
+
+#: rp-aimweb.php:40
+msgid " by type"
+msgstr ""
+
+#: rp-aimweb.php:63
+msgid " default"
+msgstr ""
+
+#: rp-aimweb.php:32 rp-aimweb.php:33
+msgid " descending (default)"
+msgstr ""
+
+#: rp-aimweb.php:43
+msgid " descending (Z-A)"
+msgstr ""
+
+#: rp-aimweb.php:68
+msgid " have priority "
+msgstr ""
+
+#: rp-aimweb.php:70
+msgid " ignore "
+msgstr ""
+
+#: rp-aimweb.php:62
+msgid " just like on the category page "
+msgstr ""
+
+#: rp-aimweb.php:61
+msgid " just like on the home page"
+msgstr ""
+
+#: rp-aimweb.php:56
+msgid " on the archive page"
+msgstr ""
+
+#: rp-aimweb.php:54
+msgid " on the category page"
+msgstr ""
+
+#: rp-aimweb.php:52
+msgid " on the home page"
+msgstr ""
+
+#: rp-aimweb.php:42
+msgid " randomly"
+msgstr ""
+
+#: rp-aimweb.php:58
+msgid " sort posts "
+msgstr ""
+
+#: rp-aimweb.php:66
+msgid " sticky posts "
+msgstr ""
+
+#: rp-aimweb.php:60
+msgid " Your posts "
+msgstr ""
+
+#: rp-aimweb.php:85
+msgid "\"Read More\" Button"
+msgstr ""
+
+#: rp-aimweb.php:88
+msgid "\"Read More\" button has default text"
+msgstr ""
+
+#: rp-aimweb.php:76
+msgid "All posts on one page (without pagination) "
+msgstr ""
+
+#: rp-aimweb.php:80
+msgid "Are you sure you want to reset all the plugin settings?"
+msgstr ""
+
+#: rp-aimweb.php:84
+msgid "Back to the plugin"
+msgstr ""
+
+#: rp-aimweb.php:79
+msgid "Below we present the current configuration of the plugin"
+msgstr ""
+
+#. Name of the plugin
+msgid "Better Posts Plus"
+msgstr ""
+
+#: rp-aimweb.php:71
+msgid "Choose post' behavior "
+msgstr ""
+
+#: rp-aimweb.php:83
+msgid "Current post settings"
+msgstr ""
+
+#: rp-aimweb.php:81
+msgid "Go to the plugin settings"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://aimweb.pl"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://portfolio.aimweb.pl/better-posts-plus-wordpress-plugin/"
+msgstr ""
+
+#: rp-aimweb.php:69
+msgid "Ignore"
+msgstr ""
+
+#: rp-aimweb.php:72
+msgid "Leave the default number of posts per page"
+msgstr ""
+
+#: rp-aimweb.php:73
+msgid "Leave the default sort settings"
+msgstr ""
+
+#. Author of the plugin
+msgid "Mateusz Mikos"
+msgstr ""
+
+#: rp-aimweb.php:87
+msgid "New \"Read More\" button text"
+msgstr ""
+
+#: rp-aimweb.php:57
+msgid "On the archive page"
+msgstr ""
+
+#: rp-aimweb.php:55
+msgid "On the category page"
+msgstr ""
+
+#: rp-aimweb.php:53
+msgid "On the home page"
+msgstr ""
+
+#: rp-aimweb.php:82
+msgid "Pagination settings"
+msgstr ""
+
+#: rp-aimweb.php:48
+msgid "Restore defaults"
+msgstr ""
+
+#: rp-aimweb.php:47
+msgid "Save Changes"
+msgstr ""
+
+#: rp-aimweb.php:86
+msgid "Set custom \"Read More\" button"
+msgstr ""
+
+#: rp-aimweb.php:45
+msgid "Settings"
+msgstr ""
+
+#: rp-aimweb.php:49
+msgid "Settings have been reset"
+msgstr ""
+
+#: rp-aimweb.php:77
+#, php-format
+msgid "Show %s posts per page "
+msgstr ""
+
+#: rp-aimweb.php:51
+msgid "Sorting posts"
+msgstr ""
+
+#: rp-aimweb.php:65
+msgid "Sticky posts"
+msgstr ""
+
+#: rp-aimweb.php:78
+msgid "Thank you for installing the plugin "
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"The simplest way to change posts order (and more!) to create your own style!"
+msgstr ""
+
+#: rp-aimweb.php:75
+msgid "Use the same settings as "
+msgstr ""
+
+#: rp-aimweb.php:74
+msgid "Use these settings: "
+msgstr ""
+
+#: rp-aimweb.php:46
+msgid "Welcome to "
+msgstr ""
+
+#: rp-aimweb.php:50
+msgid "Yes"
+msgstr ""
